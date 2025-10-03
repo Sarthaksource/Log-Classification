@@ -4,8 +4,7 @@
 A log classification system that categorizes system and application logs into multiple types, including security alerts, errors, notifications, and workflow events. The project combines **regex-based matching**, **Logistic Regression**, and **BERT/LLM models** to handle both structured and complex log patterns.
 
 - **Dataset**: 2400+ log entries (CSV)  
-- **Accuracy**: 98%  
-- **Deployment**:   
+- **Accuracy**: 98%    
 
 ---
 
